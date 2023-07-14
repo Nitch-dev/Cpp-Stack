@@ -2,7 +2,7 @@
 Its a very versatile stack which uses Templates in C++
 we can make classess Dynamically using the syntax of templates eg:
 
--  syntax is clas_name <data_type Force>
+-  syntax is:  clas_name <data_type Force>
 
 `Stack <int> s;`
 
