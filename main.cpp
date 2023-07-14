@@ -1,13 +1,10 @@
 #include "stacklib/stack.h"
+
 int main() {
-
-    stack <int>s;
-    s.push(78);
+    Stack <int>s;
+    s.push(2);
     s.show();
-    int hello = s.pop();
-    s.show();
-    cout << hello;
-
-
+    s.pop();
+    
 }
 
